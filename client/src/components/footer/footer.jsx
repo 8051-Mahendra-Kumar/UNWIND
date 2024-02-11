@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer className="footer">
                 <div className="infoText">
-                    Hey, MySelf Mayank A full Stack MERN developer, I creted this site for search your favourite movies and tv shows and get the details. Currently I am open to work on projects based on React, MonogoDB, Express, Node, Redux etc. You can find me in UPWORK for your work as Mayank Ratre MERN developer.Thank you for visiting.
+                    Hey, MySelf Mahendra Kumar A full Stack MERN developer, I creted this site for search your favourite movies and tv shows and get the details. Currently I am open to work on projects based on React, MonogoDB, Express, Node, Redux etc. You can find me in UPWORK for your work as Mayank Ratre MERN developer.Thank you for visiting.
                 </div>
                   
                 <div className="socialIcons">
